@@ -1,0 +1,7 @@
+tensorflow2.0
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tensorflow_hub
